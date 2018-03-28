@@ -1,3 +1,6 @@
+This project is deprecated and exist only for historical reasons.
+
+---
 # Kamina.JS
 ![Kamina_Logo](kamina_logo.svg)  
 The Kamina's frontend using Vue.js
